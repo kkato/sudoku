@@ -1,18 +1,17 @@
-# 数独パズル
+# Sudoku
 
-このプログラムはPythonで作成された数独パズルのプログラムです。
-9x9の数独パズルの問題とその回答を生成します。
+This program is a Sudoku puzzle generator created in Python. It generates both a 9x9 Sudoku puzzle and its solution.
 
 ## 使用方法
 
-1. このリポジトリをクローンします
+1. Clone this repository
 
 ```bash
 git clone https://github.com/kkato/sudoku.git
 cd sudoku
 ```
 
-2. プログラムを実行します
+2. Run the program
 
 ```bash
 python3 sudoku.py
